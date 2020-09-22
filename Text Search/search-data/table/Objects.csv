@@ -1,0 +1,1036 @@
+cid,name,times
+1,照相機,0
+1,筆記本,0
+1,平板電腦,0
+1,鍵盤,0
+1,懷錶,0
+1,膝上型計算機,0
+1,相機,0
+1,攝影機,0
+1,移動電話,0
+1,手錶,0
+1,膝上型電腦,0
+1,手提電話,0
+1,蜂窩式移動電話,0
+1,手提電腦,0
+1,筆記本電腦,0
+1,加法器,0
+1,手機,0
+1,便攜式攝影機,0
+1,電腦,0
+1,加數器,0
+1,滑鼠,0
+1,加法機,0
+1,鼠標,0
+1,電子計算機,0
+1,手提計算機,0
+1,算術計算機,0
+1,計算機,0
+1,計算器,0
+1,加法計算器,0
+1,大哥大,0
+2,follow,0
+2,take in,0
+2,cellular phone,0
+2,pad of paper,0
+2,laptop computer,0
+2,tv camera,0
+2,sentinel,0
+2,lozenge,0
+2,pad,0
+2,data processor,0
+2,watch out,0
+2,lookout,0
+2,mobile phone,0
+2,ascertain,0
+2,calculating machine,0
+2,black eye,0
+2,catch,0
+2,picket,0
+2,scout,0
+2,watch,0
+2,determine,0
+2,cell,0
+2,learn,0
+2,figurer,0
+2,check,0
+2,sneak,0
+2,laptop,0
+2,spotter,0
+2,view,0
+2,lookout man,0
+2,information processing system,0
+2,look out,0
+2,vigil,0
+2,pill,0
+2,calculator,0
+2,cellphone,0
+2,camera,0
+2,observe,0
+2,shiner,0
+2,keyboard,0
+2,look on,0
+2,computer mouse,0
+2,pussyfoot,0
+2,camcorder,0
+2,tab,0
+2,computing machine,0
+2,photographic camera,0
+2,see,0
+2,keep an eye on,0
+2,estimator,0
+2,television camera,0
+2,tablet,0
+2,computing device,0
+2,mouse,0
+2,watch over,0
+2,sentry,0
+2,reckoner,0
+2,cell phone,0
+2,ticker,0
+2,cellular telephone,0
+2,find out,0
+2,creep,0
+2,computer,0
+2,electronic computer,0
+7,發熱外套,0
+8,heat generating jacket,0
+9,噴霧器,0
+9,噴霧罐,0
+9,霧化器,0
+9,自動體外心臟去纖顫器（AED）,0
+9,持續氣道正壓呼吸器（CPAP）,0
+9,氣噴器,0
+10,Nebulizer,0
+10,Automated External Defibrillators (AED),0
+10,atomiser,0
+10,atomizer,0
+10,nebulizer,0
+10,Continuous Positive Airway Pressure (CPAP),0
+10,spray,0
+10,nebuliser,0
+10,sprayer,0
+13,電子雪茄,0
+13,電子煙,0
+13,電子香煙,0
+13,個人噴霧器,0
+13,電子尼古丁輸送系統,0
+13,電子煙斗,0
+14,e-cigar,0
+14,electronic nicotine delivery system,0
+14,e-cig,0
+14,e-cigarette,0
+14,personal vaporizer,0
+14,e-pipe,0
+15,智能行李,0
+16,Smart luggage,0
+17,行動電源,0
+17,移動電源,0
+17,充電寶,0
+18,power bank,0
+18,power banks,0
+18,power source,0
+21,輪椅,0
+22,wheelchair,0
+23,打火機,0
+23,點火器,0
+23,電子打火機,0
+23,香煙打火機,0
+24,low-cal,0
+24,Cigarette Lighter,0
+24,cigar lighter,0
+24,promiscuous,0
+24,barge,0
+24,unaccented,0
+24,calorie-free,0
+24,scant,0
+24,tripping,0
+24,hoy,0
+24,ignitor,0
+24,sluttish,0
+24,short,0
+24,clean,0
+24,unclouded,0
+24,loose,0
+24,clear,0
+24,lite,0
+24,Battery-powered lighter,0
+24,easy,0
+24,wakeful,0
+24,abstemious,0
+24,light,0
+24,igniter,0
+24,light-headed,0
+24,faint,0
+24,light-colored,0
+24,swooning,0
+24,pocket lighter,0
+24,wanton,0
+24,lightsome,0
+24,lightheaded,0
+24,cigarette lighter,0
+24,weak,0
+24,flatboat,0
+24,idle,0
+24,lighter,0
+25,火柴,0
+25,火柴桿,0
+26,match,0
+27,酒,0
+27,香槟,0
+27,啤酒,0
+27,酒精,0
+27,乙醇,0
+27,酒精飲料,0
+27,葡萄酒,0
+27,醇,0
+28,wine,0
+28,beer,0
+28,alcoholic beverage,0
+28,alcohol,0
+28,intoxicant,0
+28,inebriant,0
+28,Champagne-Ardenne,0
+28,alcoholic drink,0
+28,vino,0
+28,Champagne,0
+28,champagne,0
+28,wine-coloured,0
+28,wine-colored,0
+28,bubbly,0
+29,氧氣瓶,0
+29,空氣瓶,0
+30,cylinders of air,0
+30,cylinders of oxygen,0
+33,救生背心,0
+33,救生衣,0
+34,cork jacket,0
+34,life vest,0
+34,life jacket,0
+35,小型非易燃氣罐,0
+36,Non-flammable small cartridge,0
+37,水銀溫度計,0
+37,溫度計,0
+38,clinical thermometer,0
+38,mercury-in-glass clinical thermometer,0
+38,medical thermometer,0
+38,thermometer,0
+39,foundation liquid,0
+39,coldcream,0
+39,toiletries,0
+39,nebuliser,0
+39,salve,0
+39,shower gel,0
+39,cologne,0
+39,emollient,0
+39,body of water,0
+39,shampoo,0
+39,cold cream,0
+39,cologne water,0
+39,cream off,0
+39,irrigate,0
+39,piss,0
+39,sprayer,0
+39,essence,0
+39,cleaning products,0
+39,Koln,0
+39,perfume,0
+39,body wash,0
+39,skim,0
+39,Coke,0
+39,coke,0
+39,skim off,0
+39,unction,0
+39,water supply,0
+39,atomizer,0
+39,spraying,0
+39,lick,0
+39,H2O,0
+39,yogurt,0
+39,Milk,0
+39,nebulizer,0
+39,sirup,0
+39,application,0
+39,aromatize,0
+39,unguent,0
+39,ointment,0
+39,yoghurt,0
+39,toiletry,0
+39,facial cleanser,0
+39,nose candy,0
+39,spray,0
+39,water system,0
+39,face cream,0
+39,urine,0
+39,scent,0
+39,water,0
+39,skin lotion,0
+39,toilet articles,0
+39,baby milk powder,0
+39,fragrance,0
+39,syrup,0
+39,moisturizer,0
+39,eau de cologne,0
+39,bat,0
+39,milk,0
+39,drub,0
+39,pee,0
+39,dressing liquid,0
+39,clobber,0
+39,liquid soap,0
+39,piddle,0
+39,weewee,0
+39,thrash,0
+39,aromatise,0
+39,balm,0
+39,pick,0
+39,snow,0
+39,Coca Cola,0
+39,yoghourt,0
+39,Milk River,0
+39,hair spray,0
+39,blow,0
+39,C,0
+39,aroma,0
+39,makeup remover,0
+39,body milk,0
+39,atomiser,0
+39,cream,0
+39,Cologne,0
+39,lotion,0
+39,vanishing cream,0
+40,洗面奶,0
+40,定型水,0
+40,飛沫,0
+40,嬰兒奶粉,0
+40,水,0
+40,香水,0
+40,軟膏,0
+40,乳膠,0
+40,科隆香水,0
+40,噴霧,0
+40,沐浴露,0
+40,酸奶,0
+40,噴髮膠,0
+40,牛奶,0
+40,潤膚劑,0
+40,護膚水,0
+40,膠乳,0
+40,古龍水,0
+40,糖漿,0
+40,可樂,0
+40,藥膏,0
+40,保濕水,0
+40,水沫,0
+40,髮膠,0
+40,身體乳,0
+40,卸妝水,0
+40,油膏,0
+40,洗髮水,0
+40,面霜,0
+40,嗜酸桿菌乳,0
+40,霧,0
+40,粉底液,0
+40,乳酸菌牛乳,0
+40,乳霜,0
+40,乳液,0
+40,奶,0
+40,梳妝類液體,0
+41,乾冰,0
+41,固體二氧化碳,0
+42,carbon dioxide,0
+42,dry ice,0
+42,CO2,0
+42,carbonic acid gas,0
+43,丙烯酸鹽,0
+43,油性塗料,0
+43,丙烯酸酯,0
+43,非易燃塗料,0
+43,水性塗料,0
+43,畫漆,0
+43,丙烯酸,0
+44,water-based paint,0
+44,acrylic resin,0
+44,non-flammable paint,0
+44,artist paint,0
+44,acrylic,0
+44,oil-based paint,0
+44,acrylic fiber,0
+44,acrylic paint,0
+44,acrylate resin,0
+45,軍火,0
+45,彈葯,0
+45,彈藥,0
+46,ammunition,0
+47,複本,0
+47,花炮,0
+47,產生煙霧的充氣罐,0
+47,複製,0
+47,派對紙花炮,0
+47,花火,0
+47,手榴彈,0
+47,引信,0
+47,黃炸藥,0
+47,煙火品,0
+47,導火線,0
+47,塑性爆炸物,0
+47,玩具槍火藥帽,0
+47,地雷,0
+47,雷管,0
+47,槍榴彈,0
+47,再造,0
+47,仿製爆炸裝置,0
+47,臨摹,0
+47,軍用爆炸品,0
+47,起爆管,0
+47,魚雷,0
+47,火藥,0
+47,複製品,0
+47,套筒,0
+47,點火器,0
+47,副本,0
+47,煙花,0
+48,fusee,0
+48,plastic explosives,0
+48,meld,0
+48,fuses,0
+48,gunpowder,0
+48,grenade,0
+48,blend,0
+48,primer,0
+48,ammunition,0
+48,cap,0
+48,detonating device,0
+48,mix,0
+48,pickup,0
+48,detonators,0
+48,fuse,0
+48,party poppers,0
+48,ammo,0
+48,pyrotechnics,0
+48,cartridges,0
+48,combine,0
+48,replica or imitation explosive devices,0
+48,fuzee,0
+48,pyrotechnic,0
+48,blasting cap,0
+48,safety fuse,0
+48,dynamite,0
+48,mine,0
+48,flux,0
+48,smoke-generating canisters,0
+48,electrical fuse,0
+48,toy caps,0
+48,magazine,0
+48,cartridge,0
+48,plastique,0
+48,plastic explosive,0
+48,commingle,0
+48,mines,0
+48,coalesce,0
+48,detonator,0
+48,merge,0
+48,fireworks,0
+48,fuze,0
+48,priming,0
+48,blasting caps,0
+48,explosive military stores,0
+48,firework,0
+48,conflate,0
+48,immix,0
+48,grenades,0
+48,powder,0
+48,pyrotechny,0
+49,露營氣爐,0
+49,漆,0
+49,塗料,0
+49,顏料,0
+49,易燃膠水,0
+49,塗漆,0
+49,有氣焊接工具,0
+49,石油氣,0
+49,用油漆塗抹或裝飾,0
+49,塗飾,0
+49,丁烷,0
+49,丙烷,0
+49,印墨,0
+49,磷,0
+49,打火機機補充燃料,0
+49,油漆,0
+50,butane,0
+50,propane,0
+50,gas welding tool,0
+50,pigment,0
+50,LPG,0
+50,printing ink,0
+50,camping gas furnace,0
+50,phosphoru,0
+50,printer's ink,0
+50,blusher,0
+50,flammable glue,0
+50,paint,0
+50,rouge,0
+50,lighter fuel,0
+50,key,0
+50,Butane,0
+51,壓縮氣罐,0
+52,彩帶噴罐,0
+53,燃料,0
+54,汽油,0
+54,氣體,0
+54,氣,0
+54,瓦斯,0
+54,毒氣,0
+55,打火機燃料,0
+56,易燃油漆，光澤漆，噴漆,0
+57,油漆稀釋劑,0
+58,燒烤炭精,0
+59,漂白劑,0
+60,生物物質,0
+60,生物製品,0
+60,化學藥品,0
+60,化學品,0
+60,化學物質,0
+60,化學製劑,0
+60,老鼠藥,0
+60,毒性物質,0
+60,化學製品,0
+61,放射物,0
+62,電擊武器,0
+63,flare,0
+63,flare up,0
+63,flame up,0
+63,flame,0
+63,flash,0
+63,flare out,0
+63,erupt,0
+63,break open,0
+63,flares,0
+63,burn up,0
+63,solar flare,0
+63,blaze up,0
+63,irrupt,0
+63,flare pass,0
+63,flair,0
+63,burst out,0
+64,compressed gas cylinder,0
+65,ribbon spray,0
+66,cooking fuel,0
+66,flammable liquid fuel,0
+67,gasoline,0
+68,lighter fuel,0
+68,lighter refill,0
+69,gloss paint,0
+69,flammable paint,0
+69,aerosol paint,0
+70,paint thinner,0
+71,barbeque charcoal fire starter,0
+72,bleach,0
+73,biological,0
+73,biologic,0
+73,mice killer,0
+74,essence,0
+74,centre,0
+74,message,0
+74,nitty-gritty,0
+74,gist,0
+74,core,0
+74,biological product,0
+74,meat,0
+74,meaning,0
+74,substance,0
+74,inwardness,0
+74,kernel,0
+74,sum,0
+74,subject matter,0
+74,content,0
+74,heart,0
+74,marrow,0
+74,center,0
+74,means,0
+74,pith,0
+74,substances,0
+74,heart and soul,0
+74,nub,0
+77,農藥,0
+77,滅蟲劑,0
+77,稀釋劑,0
+77,天拿水,0
+77,殺蟲劑,0
+77,稀釋液,0
+77,滅蛹劑,0
+77,沖淡劑,0
+78,thin,0
+78,lean,0
+78,thinner,0
+78,diluent,0
+78,slender,0
+78,slight,0
+78,fragile,0
+78,tenuous,0
+78,flimsy,0
+78,pesticide,0
+78,dilutant,0
+78,sparse,0
+79,水管清理劑,0
+79,通渠劑,0
+79,濕電池,0
+80,wet cell battery,0
+80,wet-cell battery,0
+80,drain cleaner,0
+81,彈丸槍,0
+81,彈弩,0
+81,箭矢,0
+81,壓縮氣槍,0
+81,左輪手槍,0
+81,滾珠槍,0
+81,槍,0
+81,獵槍,0
+81,火器的零備件,0
+81,來複槍,0
+81,箭,0
+81,槍式打火機,0
+81,發令槍,0
+81,來福槍,0
+81,信號槍,0
+81,玩具槍,0
+81,矢,0
+81,彈弓,0
+81,弓弩,0
+81,手槍,0
+81,弓,0
+81,箭頭,0
+81,仿製火器,0
+81,獵魚槍,0
+81,步槍,0
+81,二氧化碳氣槍,0
+81,刺槍,0
+81,槍炮,0
+82,accelerator,0
+82,artillery,0
+82,onager,0
+82,heavy weapon,0
+82,hand gun,0
+82,accelerator pedal,0
+82,reave,0
+82,fore,0
+82,gun,0
+82,despoil,0
+82,defer,0
+82,submit,0
+82,gun for hire,0
+82,revolvers,0
+82,pillage,0
+82,bowknot,0
+82,pistols,0
+82,accede,0
+82,go,0
+82,shooting iron,0
+82,loot,0
+82,ordnance,0
+82,slingshot,0
+82,foray,0
+82,scattergun,0
+82,triggerman,0
+82,spear gun,0
+82,launcher,0
+82,revolving door,0
+82,handgun,0
+82,sling,0
+82,ransack,0
+82,six-gun,0
+82,trebucket,0
+82,give in,0
+82,six-shooter,0
+82,stoop,0
+82,rifle,0
+82,arc,0
+82,shooter,0
+82,gun lighter,0
+82,catapult,0
+82,arbalest,0
+82,trebuchet,0
+82,ballista,0
+82,rifles,0
+82,hired gun,0
+82,cross bow,0
+82,harpoon gun,0
+82,arbalist,0
+82,revolver,0
+82,side arm,0
+82,firearms of all types,0
+82,bowing,0
+82,shotgun,0
+82,ball bearing gun,0
+82,gunman,0
+82,signal flare pistols,0
+82,curtain call,0
+82,pointer,0
+82,hitman,0
+82,plunder,0
+82,pistol,0
+82,bricole,0
+82,prow,0
+82,crouch,0
+82,bend,0
+82,stem,0
+82,toy gun,0
+82,bow down,0
+82,gas,0
+82,arrow,0
+82,gunslinger,0
+82,component parts of firearms (excluding telescopic sights),0
+82,starter pistols,0
+82,hit man,0
+82,strip,0
+82,gas pedal,0
+82,pellet guns,0
+82,bow,0
+82,mangonel,0
+82,torpedo,0
+82,throttle,0
+82,obeisance,0
+82,grease-gun,0
+82,compressed air and CO2 guns,0
+83,電擊裝置,0
+83,動物電擊器,0
+83,電槍,0
+83,黑胡椒,0
+83,電擊短棒,0
+83,胡椒,0
+83,酸性噴劑,0
+83,梅斯催淚毒氣,0
+83,動物屠宰器,0
+83,辣椒噴劑,0
+83,催淚氣體,0
+83,動物驅除噴劑,0
+84,accelerator,0
+84,capsicum,0
+84,gasolene,0
+84,Chemical Mace,0
+84,sprays,0
+84,animal stunners,0
+84,teargas,0
+84,Mace,0
+84,gases,0
+84,gaseous state,0
+84,sprayer,0
+84,stun gun,0
+84,spray,0
+84,nebuliser,0
+84,capsicum pepper plant,0
+84,animal repellent sprays,0
+84,macer,0
+84,peppercorn,0
+84,lachrymator,0
+84,disabling and incapacitating chemicals,0
+84,gas,0
+84,pelt,0
+84,atomizer,0
+84,mace,0
+84,capsicum spray,0
+84,petrol,0
+84,brag,0
+84,acid sprays,0
+84,flatulence,0
+84,swash,0
+84,macebearer,0
+84,gas pedal,0
+84,spraying,0
+84,boast,0
+84,accelerator pedal,0
+84,Madagascar pepper,0
+84,nebulizer,0
+84,natural gas,0
+84,devices for shocking,0
+84,gun,0
+84,Piper nigrum,0
+84,blow,0
+84,gasconade,0
+84,throttle,0
+84,lacrimator,0
+84,tear gas,0
+84,atomiser,0
+84,pepper,0
+84,stun guns,0
+84,common pepper,0
+84,black pepper,0
+84,stun batons,0
+84,stun baton,0
+84,shoot a line,0
+84,flatulency,0
+84,gasoline,0
+84,vaunt,0
+84,bluster,0
+84,white pepper,0
+84,animal killers,0
+84,tout,0
+85,剃刀刀片,0
+85,軍刀,0
+85,斧子,0
+85,劍,0
+85,碎冰錐,0
+85,切肉大刀,0
+85,多功能小刀,0
+85,溜冰鞋,0
+85,冰鎬,0
+85,斧,0
+85,可鎖定摺疊刀,0
+85,短柄小斧,0
+85,斧頭,0
+85,開箱刀,0
+85,砍肉刀,0
+85,開式剃刀,0
+85,菜刀,0
+85,彈簧摺刀,0
+85,切肉刀,0
+85,太平斧,0
+85,滑雪用手杖,0
+85,破冰斧,0
+85,標槍,0
+85,武術器械,0
+85,冰鞋,0
+85,飛鏢,0
+85,刀,0
+86,flit,0
+86,flutter,0
+86,Axis,0
+86,catchweed,0
+86,tomahawk,0
+86,clivers,0
+86,axis,0
+86,sword,0
+86,Galium aparine,0
+86,ski poles,0
+86,meat cleaver,0
+86,chopper,0
+86,ice axe,0
+86,cavalry sword,0
+86,martial arts equipment,0
+86,cleaver,0
+86,ice axes,0
+86,dash,0
+86,blade,0
+86,flash,0
+86,fleet,0
+86,axe,0
+86,ax,0
+86,open razors,0
+86,knife,0
+86,stab,0
+86,dart,0
+86,axes,0
+86,utility knives and box cutters,0
+86,razor blades,0
+86,bloc,0
+86,ice skates,0
+86,knives,0
+86,axis vertebra,0
+86,tongue,0
+86,kitchen knife,0
+86,ice ax,0
+86,ice picks,0
+86,goose grass,0
+86,ski pole,0
+86,saber,0
+86,scoot,0
+86,swords,0
+86,sabre,0
+86,shoot,0
+86,hatchets,0
+86,axis of rotation,0
+86,piolet,0
+86,steel,0
+86,darts,0
+86,icepick,0
+86,ice pick,0
+86,ice skate,0
+86,brand,0
+86,spring cleavers,0
+86,scud,0
+86,hatchet,0
+86,cleavers,0
+87,剪刀,0
+88,scissors,0
+88,scissor,0
+88,scissor hold,0
+88,scissors hold,0
+88,scissors grip,0
+88,pair of scissors,0
+88,scissor grip,0
+89,螺絲批,0
+89,鑿,0
+90,cheat,0
+90,chisel,0
+90,rip off,0
+90,screwdriver,0
+91,鑷子,0
+91,帶鋸,0
+91,便攜式無線電鑽,0
+91,榔頭,0
+91,士巴拿,0
+91,钳子,0
+91,电钻,0
+91,哑铃,0
+91,鋸,0
+91,電鑽,0
+91,鉆,0
+91,扳手,0
+91,啞鈴,0
+91,釘槍,0
+91,扳鉗,0
+91,鉗子,0
+91,打釘機,0
+91,橇棍,0
+91,鉆頭,0
+91,推膛式槍,0
+91,鎚子,0
+91,噴燈,0
+91,錘子,0
+91,便攜式無線電鋸,0
+92,plyers,0
+92,pounding,0
+92,proverb,0
+92,dope,0
+92,exercise,0
+92,pry bar,0
+92,pull,0
+92,wrench,0
+92,wrecking bar,0
+92,power hammer,0
+92,screwdriver,0
+92,turn,0
+92,saw,0
+92,dumbbell,0
+92,saws,0
+92,wrick,0
+92,dummy,0
+92,recitation,0
+92,cordless portable power drill,0
+92,cheat,0
+92,booby,0
+92,rick,0
+92,drilling bit,0
+92,adage,0
+92,twist,0
+92,pair of pliers,0
+92,plyer,0
+92,cordless portable power saw,0
+92,byword,0
+92,rip off,0
+92,plier,0
+92,drill,0
+92,boob,0
+92,malleus,0
+92,Mandrillus leucophaeus,0
+92,hammer,0
+92,pry,0
+92,bore,0
+92,sawing machine,0
+92,spanner,0
+92,nail guns,0
+92,blowtorche,0
+92,bolt guns,0
+92,practice session,0
+92,practise,0
+92,crowbar,0
+92,power saw,0
+92,forge,0
+92,pliers,0
+92,drill bit,0
+92,hammering,0
+92,pinhead,0
+92,practice,0
+92,chisel,0
+92,electric drill,0
+92,mallet,0
+92,pound,0
+92,wring,0
+92,sprain,0
+92,cock,0
+93,短彈簧棍,0
+93,警棍,0
+93,高爾夫球杆,0
+93,曲棍球球杆,0
+93,板球棒,0
+93,包革金屬警棍,0
+93,棒球比賽,0
+93,球棒,0
+93,庫巴桑,0
+93,短棒,0
+93,指節銅環,0
+93,鐵蓮花,0
+93,帶枷棍具,0
+93,壘球棒,0
+93,指節銅套,0
+93,美式警棍,0
+93,包鐵粗杖,0
+93,球桿,0
+93,球杆,0
+93,雙節棍,0
+93,球拍,0
+93,桌球,0
+93,棒球,0
+93,長曲棍球球杆,0
+93,板球球拍,0
+93,大頭棒,0
+93,武術器械,0
+93,棍棒,0
+93,鑰匙短棒,0
+94,society,0
+94,cabaret,0
+94,social club,0
+94,cosh,0
+94,kubasaunts,0
+94,bludgeon,0
+94,cricket bats,0
+94,night club,0
+94,hockey sticks,0
+94,kubatons,0
+94,billy,0
+94,pool cue,0
+94,cue,0
+94,billiard,0
+94,lacrosse sticks,0
+94,nightclub,0
+94,baseball bat,0
+94,knuckleduster,0
+94,martial arts equipment,0
+94,sap,0
+94,baseball club,0
+94,hockey stick,0
+94,pool stick,0
+94,wand,0
+94,cricket bat,0
+94,num chucks,0
+94,softball bat,0
+94,lumber,0
+94,coshes,0
+94,gild,0
+94,golf club,0
+94,golf clubs,0
+94,night sticks,0
+94,billystick,0
+94,nightstick,0
+94,clubs,0
+94,clubhouse,0
+94,baton,0
+94,nightspot,0
+94,order,0
+94,blackjack,0
+94,rice flails,0
+94,lodge,0
+94,cue stick,0
+94,guild,0
+94,truncheon,0
+94,club,0
+94,ball club,0
+94,honckey,0
+94,billy club,0
+94,pool cues,0
+94,golf-club,0
+94,nine,0
+94,bat,0
+95,傘,0
+95,雨傘,0
+96,umbrella,0
